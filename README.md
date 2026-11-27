@@ -1,5 +1,11 @@
 # The World in One Image — 27 November 2026
 
+[![make.fun · news-image-20261127](https://make.fun/badge/news-image-20261127.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![rank](https://make.fun/badge/news-image-20261127/lhj289902417-glitch/news-image-20261127/rank.svg)](https://make.fun/bounty/news-image-20261127/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+[![reward](https://make.fun/badge/news-image-20261127/lhj289902417-glitch/news-image-20261127/reward.svg)](https://make.fun/bounty/news-image-20261127?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261127)
+
+Built for make.fun's [news-image-20261127 bounty](https://make.fun/bounty/news-image-20261127) — sum up 27 November's world news in one image, $100 in USDC.
+
 A single 1024x1024 newspaper-front-page poster summing up six world news
 stories from Friday 27 November 2026:
 
